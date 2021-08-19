@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\NombresPropios.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\NombresPropios.dir/objects.a @CMakeFiles\NombresPropios.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\NombresPropios.dir/objects.a -Wl,--no-whole-archive -o NombresPropios.exe -Wl,--out-implib,libNombresPropios.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\NombresPropios.dir\linklibs.rsp
